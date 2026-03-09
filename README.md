@@ -9,7 +9,7 @@
 
 <h2>📚 Sobre o Projeto</h2>
 <p>
-  Este projeto foi desenvolvido como parte do <b>Projeto Integrador</b> do curso Técnico em Informática para Internet. 
+  Este projeto foi desenvolvido como parte do <b>Projeto Integrador</b> do curso Técnico em Informática para Internet (2024). 
   O objetivo foi aplicar na prática os conhecimentos adquiridos ao longo do curso, envolvendo desenvolvimento web, 
   lógica de programação, organização de projetos e trabalho em equipe.
 </p>
